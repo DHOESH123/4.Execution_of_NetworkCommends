@@ -1,4 +1,4 @@
-# 4.Execution_of_NetworkCommands
+# EX NO : 4.Execution_of_NetworkCommands
 ## NAME : ESHWAR T
 ## REGISTER NUMBER : 212223230054
 ## AIM :Use of Network commands in Real Time environment
